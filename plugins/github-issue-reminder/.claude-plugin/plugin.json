@@ -1,0 +1,8 @@
+{
+  "name": "github-issue-reminder",
+  "displayName": "GitHub Issue Reminder",
+  "version": "0.1.0",
+  "description": "Stop hook that reminds the agent to update the GitHub issue/ticket after changing files in a GitHub-remoted repo",
+  "author": { "name": "Joel Zamboni" },
+  "license": "MIT"
+}

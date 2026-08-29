@@ -10,6 +10,11 @@
       "name": "example",
       "source": "./plugins/example",
       "description": "Example plugin — replace with your first real plugin"
+    },
+    {
+      "name": "github-issue-reminder",
+      "source": "./plugins/github-issue-reminder",
+      "description": "Stop hook reminding the agent to update the GitHub issue after changing files"
     }
   ]
 }

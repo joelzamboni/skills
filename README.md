@@ -29,9 +29,10 @@ project's repo.
 
 ## What's inside
 
-| Plugin | Skills | Description |
-| ------ | ------ | ----------- |
-| `example` | `hello` | Starter example — replace with real skills |
+| Plugin | Contents | Description |
+| ------ | -------- | ----------- |
+| `example` | `hello` skill | Starter example — replace with real skills |
+| `github-issue-reminder` | Stop hook | Reminds the agent to update the GitHub issue after changing files |
 
 ## Repo layout
 
