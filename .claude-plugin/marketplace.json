@@ -1,0 +1,15 @@
+{
+  "name": "zamboni-skills",
+  "description": "Joel Zamboni's open-source Claude Code skills and plugins",
+  "owner": {
+    "name": "Joel Zamboni",
+    "url": "https://github.com/joelzamboni"
+  },
+  "plugins": [
+    {
+      "name": "example",
+      "source": "./plugins/example",
+      "description": "Example plugin — replace with your first real plugin"
+    }
+  ]
+}
